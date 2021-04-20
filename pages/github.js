@@ -1,9 +1,9 @@
 import Layout from "../components/Layout";
 
-const Blog = () => (
+const Github = () => (
   <Layout>
-    <h1>blog</h1>
+    <h1>github</h1>
   </Layout>
 );
 
-export default Blog;
+export default Github;
